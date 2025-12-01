@@ -1,71 +1,68 @@
-<!-- README: Option A - Premium Animated README -->
-<h1 align="center">✨ Hi, I'm <strong>Vijendra Chandra</strong></h1>
-<h3 align="center">Frontend Developer • React • TypeScript • Modern UI Engineer</h3>
+<!-- README: Option B - Full Portfolio-in-README (very animated) -->
+<!-- NOTE: This option is very visual — try it in a test repo first. -->
 
+<!-- Big Hero Banner -->
 <p align="center">
-  <!-- Animated hero (GIF) -->
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="280" alt="animated-hero"/>
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="100%" alt="hero-banner"/>
 </p>
 
+<h1 align="center">Vijendra Chandra — Creative Frontend Engineer</h1>
+<p align="center"><strong>3D UI • Motion Design • React • TypeScript</strong></p>
+
+---
+
+### ✨ What I make
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=3000&color=6A5ACD&center=true&vCenter=true&width=700&lines=Building+3D+UI+Elements;Animating+Interfaces;Open+for+Collab+%F0%9F%9A%80" alt="typing"/>
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=ffffff&width=700&lines=Interactive+3D+Components;Colorful+Gradient+Backgrounds;Fully+Animated+Interfaces" alt="typing-white"/>
 </p>
 
 ---
 
-## 🚀 About Me
-- I build modern interfaces with **React, TypeScript & Tailwind**.
-- Creator of **Musico** — an audio streaming platform.
-- I love 3D visuals, micro-interactions & delightful UX.
-- Open for frontend, MERN & product collaborations.
-
----
-
-## 🌈 Visual Highlights
+## 🌟 Featured — Interactive Cards
 <p align="center">
-  <!-- 3D-feel skill icons (skillicons - no custom colors specified) -->
-  <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,nodejs,tailwind,git&theme=dark" alt="skills" />
+  <!-- Animated project preview GIFs -->
+  <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="320" alt="project1"/>
+  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="320" alt="project2"/>
 </p>
 
 ---
 
-## 🛠 Tech Stack
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-6cc24a?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white"/>
-</p>
+## 🎛 3D Elements & Motion
+- CSS-like neon gradients (rendered as images here)
+- Floating shapes (animated GIF composition)
+- Micro-animation on hover (GitHub can't run JS, but GIFs simulate hover states)
 
 ---
 
-## 🎯 Featured Projects
-- **Musico** — modern music player, playlists, electron-like UI  
-- **UI Wizards** — component generator for developers  
-- **AI Toolkit** — productivity automations
-
----
-
-## 📊 GitHub & Stats
+## 🔧 Tech & Tools
 <p align="center">
-  <img height="140" src="https://github-readme-stats.vercel.app/api?username=vijendra8475&theme=tokyonight&show_icons=true&count_private=true" alt="github-stats"/>
-  <img height="140" src="https://streak-stats.demolab.com?user=vijendra8475&theme=tokyonight" alt="streak-stats"/>
-</p>
-
-<p align="center">
-  <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijendra8475&layout=compact&theme=tokyonight" alt="top-langs"/>
+  <img src="https://skillicons.dev/icons?i=react,ts,tailwind,nodejs,express,mongodb,git,github&theme=light" alt="icons"/>
 </p>
 
 ---
 
-## 👀 Profile Views
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=vijendra8475&style=for-the-badge&color=purple" alt="profile-views"/>
+## 📊 Stats & Achievements
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vijendra8475&theme=tokyonight&show_icons=true&count_private=true" height="140"/>
+  <img src="https://streak-stats.demolab.com?user=vijendra8475&theme=tokyonight" height="140"/>
 </p>
 
 ---
 
-## ✨ Footer
+<details>
+<summary><strong>More (animated project list)</strong></summary>
+
+- 🎵 **Musico** — audio streaming player with animated waveform (GIF)  
+- 🧩 **UI Wizards** — drag & drop component generator (GIF)  
+- 🤖 **AI Toolkit** — smart code assistants & utils (GIF)
+
+</details>
+
+---
+
+## 👀 Profile Views & Footer
 <p align="center">
-  <small>Made with ❤️ — Want a custom banner or color-tweaks? Tell me which parts you want tuned.</small>
+  <img src="https://komarev.com/ghpvc/?username=vijendra8475&style=flat-square" alt="views"/>
 </p>
+
+<p align="center"><small>⚠️ Note: Because of heavy visuals, some GitHub APIs or preview cards may clip or lazy-load images. Best to test and fine-tune GIF sizes if something looks off.</small></p>
