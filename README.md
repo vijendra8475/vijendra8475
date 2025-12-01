@@ -1,35 +1,27 @@
 <!-- HEADER -->
-<h1 align="center">✨ Hi, I'm <strong>Vijendra Chandra</strong> 👨‍💻</h1>
-<h3 align="center">Frontend Developer • React • TypeScript • UI Engineering</h3>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWxzYzZpeGpvaW1pNTJxYXk0N3NkcTd1aWxoN2EyaW1lODh6aWkwbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Open%20For%20Collaboration-6A5ACD?style=for-the-badge&logo=Handshake&logoColor=white"/>
-</p>
+<h1 align="center">👋 Hi, I'm <strong>Vijendra Chandra</strong></h1>
+<h3 align="center">Frontend Developer • React • TypeScript • Modern UI Engineer</h3>
 
 <br/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=6A5ACD&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+%7C+TypeScript+%7C+Node;Building+Modern+Web+Experiences;Always+Learning+%26+Creating+🚀"/>
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=6A5ACD&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+%7C+TypeScript+%7C+Node;Building+Modern+Web+Experiences;Open+For+Collaboration+🚀"/>
 </p>
 
 ---
 
 ## 🚀 About Me  
-- Passionate **Frontend Developer** focused on clean, fast & modern UIs.  
-- Creator of **Musico – Audio Streaming Platform** & multiple AI tools.  
-- Skilled in **React, TypeScript, Tailwind, Node.js, MongoDB**.  
-- Currently exploring **Next.js** & Full-Stack architecture.  
-- Love creating apps that solve real-world problems.  
-- Open for collaboration on **Frontend, MERN & SaaS products**.
+- Passionate **Frontend Developer** building clean & modern UI  
+- Developer of **Musico (Audio Streaming Platform)**  
+- Skilled in **React, TS, Tailwind, Node, MongoDB**  
+- Learning **Next.js** for full-stack excellence  
+- Love building apps that solve real problems  
+- Open for collaboration on **Frontend + MERN + SaaS**  
 
 ---
 
 ## 🌐 Connect With Me  
-<p align="left">
+<p>
   <a href="https://www.instagram.com/vijendra.99"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/bijendra-chandra-b66272309/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:vijjubca@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -38,6 +30,7 @@
 ---
 
 ## 🛠 Tech Stack  
+
 ### **Frontend**
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -58,39 +51,30 @@
 ---
 
 ## 📌 Featured Projects  
-### 🚀 Musico – Audio Streaming Platform  
-A modern Spotify-like UI | Playlists | Player | Smooth Animations  
+### 🎵 Musico – Audio Streaming Platform  
+Modern Spotify-style UI • Playlists • Music Player • Smooth UX  
 
 ### 🧩 UI Wizards  
-Instant component generator for developers.
+Generate UI components instantly.  
 
 ### 🤖 AI Toolkit  
-AI-powered utilities for productivity & automation.
+AI-based utilities for developers & productivity.  
 
 ---
 
-## 📊 GitHub Stats (Working ✔)  
+## 📊 GitHub Stats (NOW 100% WORKING)  
+
 <p align="center">
-  <img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=vijendra8475&show_icons=true&theme=tokyonight&count_private=true"/>
-  <img height="165" src="https://streak-stats.demolab.com?user=vijendra8475&theme=tokyonight"/>
+  <!-- Main Stats -->
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=vijendra8475&theme=tokyonight&show_icons=true&count_private=true" />
+  
+  <!-- Streak -->
+  <img height="160" src="https://streak-stats.demolab.com?user=vijendra8475&theme=tokyonight" />
 </p>
 
+<!-- Top Languages -->
 <p align="center">
-  <img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=vijendra8475&theme=tokyonight&layout=compact"/>
-</p>
-
----
-
-## 📈 GitHub Contribution Snake  
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-</p>
-
----
-
-## 🚀 3D Skills Graph  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,nodejs,express,mongodb,mysql,git,github,vscode&theme=dark"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijendra8475&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -102,8 +86,8 @@ AI-powered utilities for productivity & automation.
 
 ---
 
-## 👀 Profile Views (Working ✔)  
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=vijendra8475&style=for-the-badge&color=blueviolet">
+## 👀 Profile Views (WORKING)  
+<p>
+  <img src="https://komarev.com/ghpvc/?username=vijendra8475&style=for-the-badge&color=blueviolet"/>
 </p>
 
