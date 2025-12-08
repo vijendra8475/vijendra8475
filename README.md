@@ -71,7 +71,7 @@ AI-powered utilities for productivity & automation.
 
 ## 📊 GitHub Stats (Working ✔)  
 <p align="center">
-  <!-- <img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=vijendra8475&show_icons=true&theme=tokyonight&count_private=true"/> -->
+  <img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=vijendra8475&show_icons=true&theme=tokyonight&count_private=true"/>
   <img height="165" src="https://streak-stats.demolab.com?user=vijendra8475&theme=tokyonight"/>
 </p>
 
