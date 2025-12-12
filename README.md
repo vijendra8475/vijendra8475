@@ -8,7 +8,7 @@
   <img src="https://cdn.dribbble.com/users/239755/screenshots/16168180/media/5e8c3f276f4e80cb06d938c104412a55.gif" width="340" alt="developer-illustration" />
 </p>
 
----
+--- 
 
 ## 💼 Profile Summary  
 I am a **Frontend Engineer specializing in modern React ecosystems**, UI architecture, state management, and performant design systems.  
