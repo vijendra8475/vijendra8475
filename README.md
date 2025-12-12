@@ -30,7 +30,6 @@ I work with an engineering-first approach and prioritize:
 - 🚀 **Dev Practices:** Git workflow, performance optimization, testing  
 
 ---
-
 ## 🚀 Technical Stack  
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react,ts,nextjs,tailwind,js,html,css,nodejs,express,mongodb,mysql,git,github,vite,figma&theme=dark" />
