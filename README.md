@@ -3,7 +3,7 @@
 <h1 align="center"><strong>Vijendra Chandra</strong></h1>
 <p align="center">Frontend Engineer • React | TypeScript | Next.js | UI Architecture</p>
 
-<p align="center">
+<p align="center"> 
   <!-- Minimal professional illustration -->
   <img src="https://cdn.dribbble.com/users/239755/screenshots/16168180/media/5e8c3f276f4e80cb06d938c104412a55.gif" width="340" alt="developer-illustration" />
 </p>
