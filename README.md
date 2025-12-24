@@ -9,7 +9,6 @@
 </p>
 
 ---
-
 ## 💼 Profile Summary  
 I am a **Frontend Engineer specializing in modern React ecosystems**, UI architecture, state management, and performant design systems.  
 My focus is on building **scalable, maintainable, and elegant interfaces** with motion, accessibility, and clean engineering principles.
