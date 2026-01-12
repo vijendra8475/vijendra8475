@@ -29,7 +29,7 @@ I work with an engineering-first approach and prioritize:
 - 📡 **Backend Familiarity:** Node.js, Express, MongoDB  
 - 🚀 **Dev Practices:** Git workflow, performance optimization, testing  
 
-
+---
 
 ## 🚀 Technical Stack  
 <p align="left">
