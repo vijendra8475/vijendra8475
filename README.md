@@ -21,7 +21,6 @@ I work with an engineering-first approach and prioritize:
 - **High-quality UI/UX with subtle micro-interactions**  
 
 ---
-
 ## 🧩 Core Competencies  
 - ⚙️ **Frontend Engineering:** React, TypeScript, Next.js  
 - 🎨 **UI Engineering:** Motion UI, Micro-interactions, Design Systems  
