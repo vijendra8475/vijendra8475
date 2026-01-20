@@ -36,6 +36,7 @@ I work with an engineering-first approach and prioritize:
   <img src="https://skillicons.dev/icons?i=react,ts,nextjs,tailwind,js,html,css,nodejs,express,mongodb,mysql,git,github,vite,figma&theme=dark" />
 </p>
 
+
 ---
 
 ## 📌 Featured Projects  
