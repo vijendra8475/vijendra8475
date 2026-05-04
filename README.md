@@ -1,7 +1,7 @@
 <!-- PROFESSIONAL + MODERN + SLIGHTLY ANIMATED README FOR VIJENDRA -->
 
 <h1 align="center"><strong>Vijendra Chandra</strong></h1>
-<p align="center">Frontend Engineer • React | TypeScript | Next.js | UI Architecture</p>
+<p align="center">Full Stack Engineer • React | TypeScript | Next.js | UI Architecture</p>
 
 <p align="center"> 
   <!-- Minimal professional illustration -->
